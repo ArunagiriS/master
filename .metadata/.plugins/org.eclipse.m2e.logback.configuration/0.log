@@ -1,1 +1,22 @@
 2019-03-08 11:12:49,495 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-08 11:19:43,286 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-08 11:23:34,596 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: JenkinsDeployment:JenkinsDeployment:0.0.1-SNAPSHOT @ C:\Users\M1032045\Documents\GitHub\master\JenkinsDeployment\pom.xml.
+2019-03-08 11:23:35,350 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-08 11:23:35,352 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\M1032045\Documents\GitHub\master\JenkinsDeployment\src\main\resources
+2019-03-08 11:23:35,356 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-08 11:23:35,357 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\M1032045\Documents\GitHub\master\JenkinsDeployment\src\test\resources
+2019-03-08 11:23:35,367 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JenkinsDeployment/src
+2019-03-08 11:23:35,368 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JenkinsDeployment/src/test/java because it overlaps with /JenkinsDeployment/src
+2019-03-08 11:23:35,614 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-08 11:23:36,468 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: JenkinsDeployment:JenkinsDeployment:0.0.1-SNAPSHOT @ C:\Users\M1032045\Documents\GitHub\master\JenkinsDeployment\pom.xml.
+2019-03-08 11:23:36,948 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-08 11:23:36,950 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\M1032045\Documents\GitHub\master\JenkinsDeployment\src\main\resources
+2019-03-08 11:23:36,953 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-08 11:23:36,955 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\M1032045\Documents\GitHub\master\JenkinsDeployment\src\test\resources
+2019-03-08 11:23:36,958 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JenkinsDeployment/src
+2019-03-08 11:23:36,959 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JenkinsDeployment/src/test/java because it overlaps with /JenkinsDeployment/src
+2019-03-08 11:23:37,057 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-08 11:23:38,013 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-08 11:23:38,015 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\M1032045\Documents\GitHub\master\JenkinsDeployment\src\main\resources
+2019-03-08 11:23:38,017 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-03-08 11:23:38,019 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\M1032045\Documents\GitHub\master\JenkinsDeployment\src\test\resources
