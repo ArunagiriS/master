@@ -1,5 +1,3 @@
-package com.jenkins.controller;
-
 public class JenkinsController {
 
 	public static void main(String[] args) {
